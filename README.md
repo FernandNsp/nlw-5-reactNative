@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Celulares do Projeto" src="github/print.png">
+  <img alt="Celulares do Projeto" src="github/projetomanager.png">
 </p>
 
 ## 🌱 Projeto
