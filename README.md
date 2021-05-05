@@ -17,8 +17,6 @@
   <img alt="Celulares do Projeto" src="github/print.png">
 </p>
 
-<br>
-
 ## 🌱 Projeto
 Criação de um aplicativo para auxiliar o usuário sobre quais plantas ele possui e quando deverá regar cada uma. 
 
